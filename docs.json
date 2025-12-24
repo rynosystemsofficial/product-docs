@@ -11,7 +11,16 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Home",
+        "icon": "house-chimney",
+        "pages": [
+          "getting-started-copied-1/link",
+          "getting-started-copied-1/purchase"
+        ]
+      },
+      {
         "tab": "Getting Started",
+        "icon": "gear",
         "pages": [
           "getting-started/link",
           "getting-started/purchase"
