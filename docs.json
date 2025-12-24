@@ -13,7 +13,13 @@
       {
         "tab": "Documentation",
         "pages": [
-          "introduction"
+          "introduction",
+          {
+            "group": "rynoRanking",
+            "pages": [
+              "rynoranking/installation"
+            ]
+          }
         ]
       }
     ]
