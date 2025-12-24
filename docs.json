@@ -4,8 +4,8 @@
   "name": "Ryno Systems Docs",
   "colors": {
     "primary": "#000000",
-    "light": "#ff0000",
-    "dark": "#ff0000"
+    "light": "#ffffff",
+    "dark": "#ffffff"
   },
   "favicon": "/images/IconOnly.png",
   "navigation": {
