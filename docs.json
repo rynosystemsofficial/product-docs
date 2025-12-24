@@ -15,7 +15,10 @@
         "icon": "house-chimney",
         "products": [
           {
-            "product": "rynoTeams"
+            "product": "rynoTeams",
+            "pages": [
+              "home/ryno-teams/setup"
+            ]
           },
           {
             "product": "rynoRanking"
