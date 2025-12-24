@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Ryno Systems Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#000000",
+    "light": "#000000",
+    "dark": "#000000"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/IconOnly.png",
   "navigation": {
     "tabs": [
       {
@@ -83,15 +83,16 @@
       ]
     }
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
+  "logo": "/images/IconOnly.png",
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Discord Server",
+        "href": "https://discord.gg/PQjceaCjPR"
+      },
+      {
+        "label": "Roblox Group",
+        "href": "https://www.roblox.com/communities/487528305/Ryno-Systems#!/about"
       }
     ],
     "primary": {
@@ -112,11 +113,10 @@
      "vscode"
    ]
   },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
+  "background": {
+    "decoration": "grid"
+  },
+  "appearance": {
+    "strict": true
   }
 }
