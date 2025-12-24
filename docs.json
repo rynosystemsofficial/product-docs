@@ -15,8 +15,15 @@
         "pages": [
           "introduction",
           {
+            "group": "rynoPremium",
+            "pages": [
+              "rynopremium/overview"
+            ]
+          },
+          {
             "group": "rynoRanking",
             "pages": [
+              "rynoranking/overview",
               "rynoranking/installation"
             ]
           }
