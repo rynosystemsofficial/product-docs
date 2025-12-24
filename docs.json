@@ -13,9 +13,13 @@
       {
         "tab": "Home",
         "icon": "house-chimney",
-        "pages": [
-          "getting-started-copied-1/link",
-          "getting-started-copied-1/purchase"
+        "products": [
+          {
+            "product": "rynoTeams"
+          },
+          {
+            "product": "rynoRanking"
+          }
         ]
       },
       {
