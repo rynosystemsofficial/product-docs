@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Ryno Systems Docs",
   "colors": {
-    "primary": "#1718ad",
-    "light": "#000000",
-    "dark": "#000000"
+    "primary": "#000000",
+    "light": "#ff0000",
+    "dark": "#ff0000"
   },
   "favicon": "/images/IconOnly.png",
   "navigation": {
