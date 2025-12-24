@@ -7,7 +7,7 @@
     "light": "#ffffff",
     "dark": "#ffffff"
   },
-  "favicon": "/images/IconOnly.png",
+  "favicon": "/images/Icon_Only-removebg-preview.png",
   "navigation": {
     "tabs": [
       {
@@ -24,7 +24,7 @@
       }
     ]
   },
-  "logo": "/images/DOCSBanner.png",
+  "logo": "/images/DOCS_Banner-removebg-preview.png",
   "navbar": {
     "links": [
       {
