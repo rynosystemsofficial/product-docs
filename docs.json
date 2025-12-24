@@ -13,7 +13,8 @@
       {
         "tab": "Getting Started",
         "pages": [
-          "getting-started/untitled-page"
+          "getting-started/link",
+          "getting-started/purchase"
         ]
       }
     ]
