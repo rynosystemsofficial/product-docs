@@ -55,7 +55,6 @@
    ]
   },
   "background": {
-    "decoration": "grid",
     "color": {
       "light": "#000000"
     }
