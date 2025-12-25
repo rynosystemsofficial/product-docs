@@ -22,6 +22,7 @@
           },
           {
             "group": "rynoRanking",
+            "hidden": true,
             "pages": [
               "rynoranking/overview",
               "rynoranking/installation"
