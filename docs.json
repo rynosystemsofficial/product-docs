@@ -26,6 +26,13 @@
               "rynoranking/overview",
               "rynoranking/installation"
             ]
+          },
+          {
+            "group": "rynoTeams",
+            "pages": [
+              "rynoteams/overview",
+              "rynoteams/installation"
+            ]
           }
         ]
       }
